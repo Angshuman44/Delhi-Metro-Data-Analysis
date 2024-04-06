@@ -46,6 +46,7 @@ The dataset showcases the evolution and expansion of the metro system over time,
 This dataset provides valuable insights for various analyses, such as understanding the distribution of metro infrastructure, identifying transportation patterns, and assessing the impact of metro development on urban mobility and accessibility. It serves as a foundation for further research and planning aimed at enhancing public transportation systems and fostering sustainable urban development.
 
 Dataset: https://www.kaggle.com/datasets/kunalgupta2616/delhi-metro-stations-data
+![LIne_withGraph](https://github.com/Angshuman44/Delhi-Metro-Data-Analysis/assets/113175952/a315f7da-5855-4587-80ec-85aec64c26bc)
 
 Data Cleaning and fixing coordinates of locations from: https://mapcarta.com/
 
